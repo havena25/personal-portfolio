@@ -1,17 +1,17 @@
 /* FONT IMPORT */
 @font-face {
     font-family: beatrice-font;
-    src: url("/personal-portfolio/Fonts/beatrice-font/Beatrice-BW7r5.ttf");
+    src: url("/Fonts/beatrice-font/Beatrice-BW7r5.ttf");
   }
 
 @font-face {
     font-family: dominik-thin;
-    src: url("/personal-portfolio/Fonts/dominik-font/DominikThin-E13W.ttf");
+    src: url("/Fonts/dominik-font/DominikThin-E13W.ttf");
   }  
 
 @font-face {
     font-family: dominik-reg;
-    src: url("/personal-portfolio/Fonts/dominik-font/Dominik-Wm6n.ttf");
+    src: url("/Fonts/dominik-font/Dominik-Wm6n.ttf");
   } 
 
 :root {
